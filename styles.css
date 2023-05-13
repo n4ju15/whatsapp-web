@@ -7,3 +7,11 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+ul {
+    list-style: none;
+}
+
+.container {
+    height: 100vh;
+}
+
