@@ -2,7 +2,7 @@
 
 Clone da página do WhatsApp desenvolvido com HTML e CSS.
 
-🔗 [Click here to access](https://n4ju15.github.io/hdc-host/)
+🔗 [Click here to access](https://n4ju15.github.io/whatsapp-web/)
 
 ![screenshot](./assets/readme.png)
 
@@ -10,5 +10,4 @@ Clone da página do WhatsApp desenvolvido com HTML e CSS.
 
 - HTML
 - CSS
-- Media query
 - Git and Github
